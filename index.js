@@ -6,4 +6,6 @@ function multiply(a, b){return a * b}
 
 function divide(a, b){return a / b}
 
-function increment(n){return n+= 1}
+function increment(n){return n += 1}
+
+funtion decrement(n){return n -= 1}
